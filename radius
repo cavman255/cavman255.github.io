@@ -23,7 +23,7 @@
     
     <script type="text/javascript">
         
-            window.location = 'https://tableau.cokecce.com/#/site/Analytics/views/ReverseRadius/ReverseRadius?:embed=yes&:tabs=no';
+            window.location = 'https://tableau.cokecce.com/t/Analytics/views/POCExampleofshapeddata/Radius-RoutetoMarket?iframeSizedToWindow=true&:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no';
 
     </script>
 </body>
