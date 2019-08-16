@@ -23,7 +23,7 @@
     
     <script type="text/javascript">
         
-            window.location = 'www.bbc.co.uk';
+            window.location = 'www.bbc.com';
 
     </script>
 </body>
